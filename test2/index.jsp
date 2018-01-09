@@ -5,13 +5,13 @@
         <head>
 
                 <title>
-                        自定义标签
+                        带属性的自定义标签
                 </title>
         </head>
         <body>
 
 
-		<tag:helloWorldTag/>
+		<tag:helloWorldTag name="小明" age="12"/>
 		
 
         

@@ -5,13 +5,20 @@
         <head>
 
                 <title>
-                        自定义标签
+                                 动态属性标签
                 </title>
         </head>
         <body>
+		
 
+		
+		<tag:helloWorldTag name="小明" age="12" money="10000" function="表演"/>
+	
+	
+		
+		
 
-		<tag:helloWorldTag/>
+		
 		
 
         
